@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">L02-Registration Form</string>
+    <string name="name">Name:</string>
+    <string name="pw">Password:</string>
+    <string name="cn">chgname</string>
+    <string name="cp">chgpassword</string>
+    <string name="lg">login</string>
+    <string name="cl">cancel</string>
+    <string name="form">Registration Form</string>
+    <string name="fullname">Full Name:</string>
+    <string name="welcome">Welcome to Adventure Learning Club!</string>
+    <string name="gender"> Gender: </string>
+    <string name="studid"> Student ID: </string>
+    <string name="sch"> School: </string>
+    <string name="email"> E-mail: </string>
+    <string name="reg"> Register </string>
+    <string name="pho"> Phone: </string>
+    <string name="first"> First Name </string>
+    <string name="last"> Last Name </string>
+    <string name="female"> Female </string>
+    <string name="male"> Male </string>
+</resources>
